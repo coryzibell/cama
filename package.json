@@ -1,0 +1,22 @@
+{
+  "name": "cama",
+  "version": "1.0.0",
+  "description": "Converts a string to camelCase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryzibell/cama.git"
+  },
+  "keywords": [
+    "camelcase"
+  ],
+  "author": "Cory Zibell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryzibell/cama/issues"
+  },
+  "homepage": "https://github.com/coryzibell/cama#readme"
+}
